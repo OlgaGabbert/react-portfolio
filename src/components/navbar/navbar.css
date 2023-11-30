@@ -1,0 +1,27 @@
+.navbar {
+    width: 100%;
+    height: 60px;
+    font-size: 18px;
+    position: fixed;
+    top: 0;
+    display: flex;
+    background: linear-gradient(to bottom right, #5ab9e0, #1abc9c);
+    margin-bottom: 90px;
+  }
+  
+  .navbar img {
+    height: 100px;
+    width: 100px;
+  }
+  
+  .navbar ul {
+    list-style-type: none;
+    display: flex;
+    gap: 40px;
+  }
+  
+  .navbar a {
+    text-decoration: none;
+    color: #1e5f95;
+  }
+  
